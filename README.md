@@ -9,7 +9,7 @@ torchvision
 matplotlib
 To install the required libraries, run the following command:
 
-pip install torch torchvision matplotlib
+!pip install torch torchvision matplotlib
 
 # Data
 The MNIST dataset is used in this project, comprising 60,000 training images and 10,000 testing images of handwritten digits. Each image is a 28x28 pixel grayscale representation of a digit from 0 to 9.
